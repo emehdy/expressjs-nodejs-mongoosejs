@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/emehdy/expressjs-nodejs-mongoosejs/issues"
   },
-  "homepage": "https://github.com/emehdy/expressjs-nodejs-mongoosejs#readme"
+  "homepage": "https://github.com/emehdy/expressjs-nodejs-mongoosejs#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.6"
+  }
 }
